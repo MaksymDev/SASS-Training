@@ -1,2 +1,2 @@
-# SASS-Training
-SASS - SCSS Training
+# wordpress-bootstrap
+
