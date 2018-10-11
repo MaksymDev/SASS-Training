@@ -1,0 +1,25 @@
+{
+  "name": "css_demo",
+  "version": "1.0.0",
+  "description": "This repo contains starter files and the finished project files for all the projects contained in the course.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/MaksymDev/css-sass-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/MaksymDev/css-sass-demo/issues"
+  },
+  "homepage": "https://gitlab.com/MaksymDev/css-sass-demo#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
